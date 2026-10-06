@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Albañilería",
+        "slug": "albanileria",
+        "icono": "🔨"
+    },
+    {
+        "id": 2,
+        "nombre": "Electricidad",
+        "slug": "electricidad",
+        "icono": "⚡"
+    },
+    {
+        "id": 3,
+        "nombre": "Plomería",
+        "slug": "plomeria",
+        "icono": "🚰"
+    },
+    {
+        "id": 4,
+        "nombre": "Pintura",
+        "slug": "pintura",
+        "icono": "🎨"
+    },
+    {
+        "id": 5,
+        "nombre": "Jardinería",
+        "slug": "jardineria",
+        "icono": "🌳"
+    }
+]

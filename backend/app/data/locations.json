@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Santiago del Estero",
+        "provincia": "Santiago del Estero",
+        "pais": "AR"
+    },
+    {
+        "id": 2,
+        "nombre": "La Banda",
+        "provincia": "Santiago del Estero",
+        "pais": "AR"
+    },
+    {
+        "id": 3,
+        "nombre": "Termas de Río Hondo",
+        "provincia": "Santiago del Estero",
+        "pais": "AR"
+    }
+]

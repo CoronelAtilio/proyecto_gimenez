@@ -1,0 +1,29 @@
+backend/
+│
+├── app/
+│   ├── main.py
+│   │
+│   ├── routes/
+│   │   ├── categories.py
+│   │   ├── providers.py
+│   │   ├── locations.py
+│   │   ├── jobs.py
+│   │   └── search.py
+│   │
+│   ├── controllers/
+│   │   ├── categories_controller.py
+│   │   ├── providers_controller.py
+│   │   ├── locations_controller.py
+│   │   ├── jobs_controller.py
+│   │   └── search_controller.py
+│   │
+│   ├── models/
+│   │
+│   └── data/
+│       ├── categories.json
+│       ├── providers.json
+│       ├── locations.json
+│       └── jobs.json
+│
+├── requirements.txt
+└── venv/

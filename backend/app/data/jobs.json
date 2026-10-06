@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "titulo": "Necesito albañil para ampliar una habitación",
+        "descripcion": "Necesito realizar una ampliación de una habitación.",
+        "categoria_id": 1,
+        "localidad_id": 1,
+        "usuario": "María González",
+        "presupuesto": "A convenir",
+        "estado": "abierto"
+    },
+    {
+        "id": 2,
+        "titulo": "Busco electricista",
+        "descripcion": "Necesito revisar la instalación eléctrica de mi casa.",
+        "categoria_id": 2,
+        "localidad_id": 2,
+        "usuario": "Pedro Fernández",
+        "presupuesto": "$150000",
+        "estado": "abierto"
+    },
+    {
+        "id": 3,
+        "titulo": "Pintura de vivienda",
+        "descripcion": "Necesito pintar el interior de una vivienda.",
+        "categoria_id": 4,
+        "localidad_id": 3,
+        "usuario": "Laura Díaz",
+        "presupuesto": "A convenir",
+        "estado": "abierto"
+    }
+]

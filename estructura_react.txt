@@ -1,0 +1,17 @@
+src/
+├── components/
+│   ├── CategoryCard.jsx
+│   ├── ProviderCard.jsx
+│   └── SearchBar.jsx
+│
+├── pages/
+│   ├── Home.jsx
+│   ├── Category.jsx
+│   └── Provider.jsx
+│
+├── services/
+│   └── api.js
+│
+├── App.jsx
+├── main.jsx
+└── index.css
